@@ -9,8 +9,8 @@
 		"type": "AzureSqlTable",
 		"schema": [],
 		"typeProperties": {
-			"schema": "SalesLT",
-			"table": "Product"
+			"schema": "dbo",
+			"table": "watermarktable"
 		}
 	},
 	"type": "Microsoft.DataFactory/factories/datasets"
